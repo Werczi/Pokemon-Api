@@ -1,2 +1,2 @@
 # Pokemon-Api
-application using pokemon api, a standalone project, created for the purpose of learning javascript. 
+application using pokemon api, a standalone project, created for the purpose of learning javascript and fetch method. 
